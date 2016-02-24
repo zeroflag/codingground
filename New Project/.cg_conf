@@ -1,0 +1,1 @@
+{"id":"asm","ext":"asm","version":"Nasm v2.10.07","compile":"nasm -f elf *.asm; ld -m elf_i386 -s -o demo *.o","execute":"demo","preview":"","command":"","file":"/home/cg/src/samples/main.asm","url":"compile_asm_online.php","mode":"assembly_x86"}
